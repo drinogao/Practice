@@ -9,6 +9,7 @@ class Triangle{
 	public static void main(String[] args){
 		
 		Scanner input = new Scanner(System.in);
+		
 		/*设定三角形的位置*/
 		final double A_X = 0,A_Y = 0,B_X = 0,B_Y = 100,C_X = 200,C_Y = 0;
 	
